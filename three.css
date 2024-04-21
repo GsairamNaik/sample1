@@ -1,0 +1,25 @@
+#change{
+width: 250px;
+height: 250px;
+background-color: silver;
+align-content: center;
+margin: auto;
+padding: 20px;
+border-radius: 20px;
+border: 5px solid green;
+
+}
+.middle{
+color: palevioletred;
+margin-left: 90px;
+margin-top: 5px;
+
+}
+.goright{
+margin-left: 30px;
+}
+
+p{
+    color: forestgreen;
+    text-align: center;
+}
